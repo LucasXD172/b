@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "lol XD",
   "main": "b.js",
-  "scripts": {
+  "scripts":"npm install", {
   "start": "b.js"
   },
   "dependencies": {
