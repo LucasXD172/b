@@ -1,0 +1,12 @@
+{
+  "name": "lucas",
+  "version": "1.0.0",
+  "description": "lol XD",
+  "main": "b.js",
+  "scripts": {
+  "start": "b.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
